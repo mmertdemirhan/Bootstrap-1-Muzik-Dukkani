@@ -1,0 +1,36 @@
+body {
+    background-color:#E9ECEF !important;
+}
+.col-md-4 {
+    margin-bottom: 2rem;
+}
+body{
+    background-color: #E9ECEF;
+}
+h1 {
+    text-align: center;
+}
+.instruments {
+    margin: 0 auto;
+    display: block;
+    width: 100px;
+}
+h3 {
+    text-align: center;
+}
+.lead {
+    text-align: center;
+}
+.heading-products {
+    margin-top: 20px;
+}
+h5 {
+    color: purple !important;
+}
+h6 {
+    background-color: lightgrey;
+    display: inline;
+    border-radius: 3px;
+}
+
+
